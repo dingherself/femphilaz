@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<!--[if lte IE 9]><html lang="en" dir="ltr" class="lte-ie9 external-links ua-brand-icons sticky-footer"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html lang="en" dir="ltr" class="external-links ua-brand-icons sticky-footer"><!--<![endif]-->
+<html lang="en" class="external-links ua-brand-icons sticky-footer">
+
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>
+      {%- if page.title -%}
+        {{ page.title | smartify }} - {{ site.title | smartify }}
+      {%- else -%}
+        {{ site.title | smartify }} - {{ site.description | smartify }}
+      {%- endif -%}
+    </title>
+    {% include head.html %}
+    <link rel="canonical" href="{{ page.redirect_to }}"/>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta http-equiv="refresh" content="0;url={{ page.redirect_to }}" />
+  </head>
+  <body>
+
+    {% include header.html %}
+
+    {% include navbar.html %}
+
+    <section id="content" class="page-row page-row-expanded" style="margin-bottom: 1.5em;">
+      <div id="content_main">
+        <div class="container">
+          <div class="row justify-content-center">
+            <div class="col-xs-12" id="content">
+                <h2>Redirecting...</h2>
+                  <a href="{{ page.redirect_to }}">Please click here in case you are not automatically redirected.</a>
+                  <script>location='{{ page.redirect_to }}'</script>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <footer id="footer_site" class="page page-row" role="contentinfo">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-xs-12">
+            {% include footer.html %}
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    {% include scripts.html %}
+
+  </body>
+</html>
