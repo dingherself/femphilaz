@@ -1,12 +1,9 @@
 <!DOCTYPE html>
-<!--[if lte IE 9]><html lang="en" dir="ltr" class="lte-ie9 external-links ua-brand-icons sticky-footer"><![endif]-->
-<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html lang="en" dir="ltr" class="external-links ua-brand-icons sticky-footer"><!--<![endif]-->
-<html lang="en" class="external-links ua-brand-icons sticky-footer">
+<html lang="en" class="h-100">
 
   <head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <title>
       {%- if page.title -%}
@@ -15,37 +12,29 @@
         {{ site.title | smartify }} - {{ site.description | smartify }}
       {%- endif -%}
     </title>
+
     {% include head.html %}
+
   </head>
-  <body>
+  <body class="d-flex flex-column h-100">
 
-    {% include header.html %}
+      {% include header.html %}
 
-    {% include navbar.html %}
+      {% include navbar.html %}
 
-    <section id="content" class="page-row page-row-expanded" style="margin-bottom: 1.5em;">
-      <div id="content_main">
+      <main role="main" class="flex-shrink-0 mb-3">
         <div class="container">
           <div class="row justify-content-center">
-            <div class="col-xs-12" id="content">
+            <div class="col-12" id="content">
               {{ content }}
             </div>
           </div>
         </div>
-      </div>
-    </section>
+      </main>
 
-    <footer id="footer_site" class="page page-row" role="contentinfo">
-      <div class="container">
-        <div class="row justify-content-center">
-          <div class="col-xs-12">
-            {% include footer.html %}
-          </div>
-        </div>
-      </div>
-    </footer>
+      {% include footer.html %}
 
-    {% include scripts.html %}
+      {% include scripts.html %}
 
   </body>
 </html>

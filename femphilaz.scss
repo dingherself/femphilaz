@@ -1,0 +1,33 @@
+---
+---
+
+// Proxima Nova font
+@import url("https://use.typekit.net/emv3zbo.css");
+
+// Latest icon font stylesheet
+@import url("https://cdn.digital.arizona.edu/lib/az-icons/main/az-icons-styles.css");
+
+// Compiled and minified UA Bootstrap CSS, icon font not included
+@import url("https://cdn.digital.arizona.edu/lib/arizona-bootstrap/2.0.19/css/arizona-bootstrap.min.css");
+
+html {
+  font-size: 17px;
+}
+
+h1,
+.text-size-h1,
+.h1 {
+  font-size: 1.625rem;
+}
+
+h2,
+.text-size-h2,
+.h2 {
+  font-size: 1.375rem;
+}
+
+h3,
+.text-size-h3,
+.h3 {
+  font-size: 1.125rem;
+}

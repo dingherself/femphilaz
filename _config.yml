@@ -37,7 +37,7 @@ title: Arizona Feminist Philosophy Graduate Conference
 #  Google search results) and in your feed.xml site description.
 source:         "."
 destination:    ./_gh_pages
-host:           127.0.0.1
+host:           0.0.0.0
 port:           9001
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.femphilaz.com" # the base hostname & protocol for your site, e.g. http://example.com
