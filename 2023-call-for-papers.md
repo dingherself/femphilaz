@@ -1,8 +1,6 @@
 ---
 layout: default
-title: Call for Papers
-group: navigation
-order: 2
+title: 2023 Call for Papers
 ---
 
 # Call for Papers
