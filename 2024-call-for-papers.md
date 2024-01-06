@@ -9,7 +9,7 @@ order: 2
 
 Papers on any theme or topic within feminist philosophy will be considered. We especially encourage members of underrepresented groups in philosophy to submit. If applicable, please include a brief note indicating to which underrepresented group you belong.
 
-Abstract and papers are due via email in PDF form by **Friday, January 5th, 2024**. Acceptance notices will be sent by early March. Please limit abstracts to 500 words and papers to 4000 words, and format for anonymous review. In the body of the email, please include: the title of the paper, your name, email address, institutional affiliation, and note indicating in an underrepresented group membership (if applicable). Each presentation will be accompanied by comments, after which there will be a general Q&A.
+Abstract and papers are due via email in PDF form. **We are extending the deadline for submissions to Sunday, January 14, 2024.** Acceptance notices will be sent by early March. Please limit abstracts to 500 words and papers to 4000 words, and format for anonymous review. In the body of the email, please include: the title of the paper, your name, email address, institutional affiliation, and note indicating in an underrepresented group membership (if applicable). Each presentation will be accompanied by comments, after which there will be a general Q&A.
 
 Limited funds may be made available to help offset travel costs.
 
