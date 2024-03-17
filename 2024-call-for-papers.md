@@ -1,8 +1,6 @@
 ---
 layout: default
 title: 2024 Call for Papers
-group: navigation
-order: 2
 ---
 
 # 2024 Call for Papers
