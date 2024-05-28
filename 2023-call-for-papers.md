@@ -18,6 +18,5 @@ Limited funds may be made available to help offset travel costs.
     var dot = ".";
     var arizona = "com";
     var s = " ";
-    document.write("Please send submissions to" + s + "<a href=" + "mail" + "to:" + fem + arr + phil + dot + arizona
-          + ">" + fem + arr + phil + dot + arizona + "</a>.");
+    document.write("Please send submissions to" + s + "<a href='" + "mail" + "to:" + fem + arr + phil + dot + arizona + "'>" + fem + arr + phil + dot + arizona + "</a>.");
   </script></p>
