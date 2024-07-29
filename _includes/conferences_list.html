@@ -2,9 +2,9 @@
 {% for node in sorted_pages %}
   {% if group == node.group %}
     {% if page.url == node.url %}
-      <a class="dropdown-item" style="margin-bottom:.25em;" href="{{ node.url | relative_url }}">{{ node.navtitle }}<span class="sr-only">(current)</span></a>
+      <li><a class="dropdown-item" style="margin-bottom:.25em;" href="{{ node.url | relative_url }}">{{ node.navtitle }}<span class="sr-only">(current)</span></a></li>
     {% else %}
-      <a class="dropdown-item" style="margin-bottom:.25em;" href="{{ node.url | relative_url }}">{{ node.navtitle }}</a>
+      <li><a class="dropdown-item" style="margin-bottom:.25em;" href="{{ node.url | relative_url }}">{{ node.navtitle }}</a></li>
     {% endif %}
   {% endif %}
 {% endfor %}
