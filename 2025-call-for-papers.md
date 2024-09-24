@@ -21,7 +21,7 @@ If you would like to attend the conference but do not have work ready to submit 
 
 For accessibility reasons, we ask all in-person attendees to wear N94/N95 or similar masks, which will be available at no cost from the registration table.
 
-Speakers and commentators will be requested to upload, by at least the night before the start of the conference, presentation materials to a confidential Box folder circulated to all conference participants.
+Speakers and commentators will be requested to upload, by at least the night before the start of the conference, presentation materials to a confidential shared folder circulated to all conference participants.
 
 The conference venue itself is accessible by wheelchair and is housed in a building with a nursing room (incl. a refrigerator) and a gender-neutral/accessible bathroom. We will make a quiet room available throughout the conference as well.
 
