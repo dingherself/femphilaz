@@ -7,7 +7,7 @@ order: 2
 
 # 2025 Call for Papers (Draft)
 
-We invite presentations for the 6th Annual Arizona Feminist Philosophy Graduate Conference (FemPhilAZ 2025), to be held on [conference dates], at the University of Arizona with a hybrid in-person/Zoom option for all sessions. Our keynote speakers this year are [keynote speaker 1] and [keynote speaker 2].
+We invite presentations for the 6th Annual Arizona Feminist Philosophy Graduate Conference (FemPhilAZ 2025), to be held on [conference dates] at the University of Arizona with a hybrid in-person/Zoom option for all sessions. Our keynote speakers this year are [keynote speaker 1] and [keynote speaker 2].
 
 The conference is free to register and open to all. The deadline for submission is [submission due date]. Our past programs can be found at <https://femphilaz.com>, with the caveat that we are always in search of approaches, themes, traditions, and voices not well represented in previous iterations of the conference.
 
