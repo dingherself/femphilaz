@@ -39,7 +39,7 @@ We expect to be in a position to help offset travel costs for speakers/commentat
   document.write("<p><strong>How to send us your work</strong>: Please email the following to" + s + "<a href='" + "mail" + "to:" + fem + arr + phil + dot + arizona + "'>" + fem + arr + phil + dot + arizona + "</a> by [submission due date].</p>");
 </script>
 
-1. An anonymized version of your paper (up to 3,000 words) or creative/artistic work (suitable for a 25-minute presentation), along with an abstract or proposal as appropriate (up to 150 words); and
+1. An anonymized version of your paper (up to 3,000 words) or creative/artistic work (suitable for a 20-minute presentation), along with an abstract or proposal as appropriate (up to 150 words); and
 2. A separate cover letter stating the title of your presentation, your name, email address, and institutional affiliation (if any).
 
 You will receive an email acknowledgement within a couple of days and will be notified of our decision by [due date for decisions]. Every submission will be reviewed anonymously by two of our philosophy graduate students and/or faculty members at the University of Arizona; we are hoping to pass on brief feedback from the reviewers but regrettably cannot guarantee this. If selected, presentations will be accompanied by comments, after which there will be a general Q&A.
