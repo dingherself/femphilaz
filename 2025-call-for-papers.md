@@ -13,7 +13,7 @@ The conference is free to register and open to all. The deadline for submission 
 
 **What we are looking for**: We construe feminist philosophy broadly to cover theoretically-oriented interdisciplinary feminist scholarship, history of feminist thought, creative/artistic feminist philosophical work, and contemporary feminist theory and its many intersections—including but not limited to trans/queer feminism, transnational feminism, Indigenous feminism, critical race feminism, ecofeminism, feminist migration/border studies, feminist legal studies, feminist disability studies, feminist science/technology studies, and feminist animal studies.
 
-We encourage interventions that go beyond merely interpreting, explicating, critiquing, applying, or amending existing views, and heavily favor submissions that are not afraid to go out on a limb, to grapple with the big normative, analytical, practical, and methodological questions, and to provoke new ways of seeing, thinking, and theorizing.
+We encourage interventions that go beyond merely interpreting, explicating, critiquing, applying, or amending existing views, and heavily favor submissions that are not afraid to go out on a limb, grapple with the big normative, analytical, practical, and methodological questions, and provoke new ways of seeing, thinking, and theorizing.
 
 If you would like to attend the conference but do not have work ready to submit at this time, please reach out to us at the email address below and indicate a willingness to be considered as a commentator or chair (please remember to give us a sense of your background and interests!).
 
