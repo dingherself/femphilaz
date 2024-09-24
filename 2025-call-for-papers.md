@@ -19,15 +19,7 @@ If you would like to attend the conference but do not have work ready to submit 
 
 **What we are doing to make FemPhilAZ accessible**: As with previous years, FemPhilAZ 2025 will take place with an all hybrid in-person/Zoom format. As a philosophy conference, we have no registration fees.
 
-For accessibility reasons, we ask all in-person attendees to wear N94/N95 or similar masks, which will be available at no cost from the registration table.
-
-Speakers and commentators will be requested to upload, by at least the night before the start of the conference, presentation materials to a confidential shared folder circulated to all conference participants.
-
-The conference venue itself is accessible by wheelchair and is housed in a building with a nursing room (incl. a refrigerator) and a gender-neutral/accessible bathroom. We will make a quiet room available throughout the conference as well.
-
-All food provided will be vegan/vegetarian; we will collect information about additional dietary restrictions prior to the start of the conference.
-
-We expect to be in a position to help offset travel costs for speakers/commentators/chairs with the limited funds we hope to raise, and we are happy to help arrange temporary housing with graduate student hosts (if so desired).
+For accessibility reasons, we ask all in-person attendees to wear N94/N95 or similar masks, which will be available at no cost from the registration table. Speakers and commentators will be requested to upload, by at least the night before the start of the conference, presentation materials to a confidential shared folder circulated to all conference participants. The conference venue itself is accessible by wheelchair and is housed in a building with a nursing room (incl. a refrigerator) and a gender-neutral/accessible bathroom; we will make a quiet room available throughout the conference as well. All food provided will be vegan/vegetarian; we will collect information about additional dietary restrictions prior to the start of the conference. Lastly, we expect to be in a position to help offset travel costs for speakers/commentators/chairs with the limited funds we hope to raise, and we are happy to help arrange temporary housing with graduate student hosts (if so desired).
 
 <script language="JavaScript" type="text/javascript">
   var fem = "femphilaz";
