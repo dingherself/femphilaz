@@ -9,7 +9,7 @@ order: 2
 
 We invite presentations for the 6th Annual Arizona Feminist Philosophy Graduate Conference (FemPhilAZ 2025), to be held on [conference dates] at the University of Arizona with a hybrid in-person/Zoom option for all sessions. Our keynote speakers this year are [keynote speaker 1] and [keynote speaker 2].
 
-The conference is free to register and open to all. We will accept submissions until [submission due date]. Past programs can be found at <https://femphilaz.com>, with the caveat that we are always in search of approaches, themes, traditions, and voices not well represented in previous iterations of the conference.
+The conference is free to register and open to all. We will receive submissions until [submission due date]. Past programs can be found at <https://femphilaz.com>, with the caveat that we are always in search of approaches, themes, traditions, and voices not well represented in previous iterations of the conference.
 
 **What we are looking for**: We construe feminist philosophy broadly to cover theoretically-oriented interdisciplinary feminist scholarship, history of feminist thought, creative/artistic feminist philosophical work, and contemporary feminist theory (feminist political philosophy, metaphysics, epistemology, philosophy of science, philosophy of art, etc.) and its many intersections (including but not limited to trans/queer feminism, transnational feminism, Indigenous feminism, critical race feminism, ecofeminism, feminist migration/border studies, feminist legal studies, feminist disability studies, feminist science/technology studies, and feminist animal studies).
 
