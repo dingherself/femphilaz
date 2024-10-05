@@ -23,8 +23,8 @@ For accessibility reasons, we ask all in-person attendees to wear N94/N95 or sim
 
 **How to send us your work**: Please upload the following to <https://femphilaz.com/submit> by [submission due date].
 
-1. An anonymized version of (1) your paper (up to 3,000 words) or creative/artistic work (suitable for a 20-minute presentation), along with (2) an abstract or proposal as appropriate (up to 150 words); and
-2. A separate cover letter stating (1) the title of your presentation, (2) your name, (3) your email, (4) your institutional affiliation (if any), and (5) four to six keywords.
+1. An anonymized version of (a) your paper (up to 3,000 words) or creative/artistic work (suitable for a 20-minute presentation), along with (b) an abstract or proposal as appropriate (up to 150 words); and
+2. A separate cover letter stating (a) the title of your presentation, (b) your name, (c) your email, (d) your institutional affiliation (if any), and (e) four to six keywords.
 
 If submitting creative/artistic work, please feel free to upload an abstract/proposal with link(s) to the work itself.
 
