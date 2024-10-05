@@ -21,7 +21,7 @@ If you would like to attend the conference but do not have work ready to submit 
 
 For accessibility reasons, we ask all in-person attendees to wear N94/N95 or similar masks, which will be available at no cost from the registration table. Speakers and commentators will be requested to upload, by at least the night before the start of the conference, presentation materials to a confidential shared folder circulated to all conference participants. The conference venue itself is accessible by wheelchair and is housed in a building with a nursing room (incl. a refrigerator) and a gender-neutral/accessible bathroom; we will make a quiet room available throughout the conference as well. Lastly, all food provided will be vegan/vegetarian, and we will collect information about additional dietary restrictions prior to the start of the conference.
 
-**How to send us your work**: Please upload the following to <https://femphilaz.com/submit> by [submission due date].
+**How to send us your work**: Please submit the following to <https://femphilaz.com/submit> by [submission due date].
 
 1. An anonymized version of (a) your paper (up to 3,000 words) or creative/artistic work (suitable for a 20-minute presentation), along with (b) an abstract or proposal as appropriate (up to 150 words); and
 2. A separate cover letter stating (a) the title of your presentation, (b) your name, (c) your email, (d) your institutional affiliation (if any), and (e) four to six keywords.
