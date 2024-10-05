@@ -26,10 +26,9 @@ For accessibility reasons, we ask all in-person attendees to wear N94/N95 or sim
 1. An anonymized version of your paper (up to 3,000 words) or creative/artistic work (suitable for a 20-minute presentation), along with an abstract or proposal as appropriate (up to 150 words); and
 2. A separate cover letter stating the title of your presentation, your name, email address, institutional affiliation (if any), and four to six keywords.
 
-You will need to login into a Google account in order to submit
-You will receive an automatic email acknowledgment after submission and will be notified of our decision by [due date for decisions]. 
+If submitting creative/artistic work, please feel free to upload an abstract/proposal with link(s) to the work itself.
 
-Every submission will be reviewed anonymously by two of our philosophy graduate students and/or faculty members at the University of Arizona; we are hoping to pass on brief feedback from the reviewers.
+You will receive an email acknowledgment within a couple of days and will be notified of our decision by [due date for decisions]. Every submission will be reviewed anonymously by two of our philosophy graduate students and/or faculty members at the University of Arizona; we are hoping to pass on brief feedback from the reviewers.
 
 Unaffiliated scholars/artists without a terminal degree (e.g., PhD, JD, MFA), as well as undergraduate students, are also welcome to submit. Co-authored submissions are eligible so long as none of the authors has received their terminal degree at the time of submission, except that graduate students pursuing joint degrees (e.g., PhD-JD) are always eligible. With apologies, we will not consider submissions from students currently enrolled in any academic or professional programs at the University of Arizona; we encourage you to volunteer as a commentator or chair instead (please see instructions above).
 
