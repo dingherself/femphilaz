@@ -15,24 +15,17 @@ The conference is free to register and open to all. We will receive submissions 
 
 We encourage interventions that go beyond merely interpreting, explicating, critiquing, applying, or amending existing views, and heavily favor submissions that are not afraid to take risks, grapple with the big normative, analytical, practical, and methodological questions, and provoke new ways of seeing, thinking, and theorizing.
 
-If you would like to attend the conference but do not have work ready to submit at this time, please reach out to us at the email address below and indicate a willingness to be considered as a commentator or chair (please remember to give us a sense of your background and interests!).
+If you would like to attend the conference but do not have work ready to submit at this time, please reach out to Ding at the email address below and indicate a willingness to be considered as a commentator or chair (please remember to give us a sense of your background and interests!).
 
 **What we are doing to make FemPhilAZ accessible**: As with previous years, FemPhilAZ 2025 will take place with an all hybrid in-person/Zoom format; we have no registration fees. We expect to be in a position to help offset travel costs for speakers/commentators/chairs with the limited funds we hope to raise, and we are happy to help arrange temporary housing with graduate student hosts (if so desired).
 
 For accessibility reasons, we ask all in-person attendees to wear N94/N95 or similar masks, which will be available at no cost from the registration table. Speakers and commentators will be requested to upload, by at least the night before the start of the conference, presentation materials to a confidential shared folder circulated to all conference participants. The conference venue itself is accessible by wheelchair and is housed in a building with a nursing room (incl. a refrigerator) and a gender-neutral/accessible bathroom; we will make a quiet room available throughout the conference as well. Lastly, all food provided will be vegan/vegetarian, and we will collect information about additional dietary restrictions prior to the start of the conference.
 
-<script language="JavaScript" type="text/javascript">
-  var fem = "femphilaz";
-  var arr = "@";
-  var phil = "gmail";
-  var dot = ".";
-  var arizona = "com";
-  var s = " ";
-  document.write("<p><strong>How to send us your work</strong>: Please email the following to" + s + "<a href='" + "mail" + "to:" + fem + arr + phil + dot + arizona + "'>" + fem + arr + phil + dot + arizona + "</a> by [submission due date].</p>");
-</script>
+<p><strong>How to send us your work</strong>: Please upload the following to [submission link] by [submission due date].</p>
 
-1. An anonymized version of your paper (up to 3,000 words) or creative/artistic work (suitable for a 20-minute presentation), along with an abstract or proposal as appropriate (up to 150 words); and
-2. A separate cover letter stating the title of your presentation, your name, email address, and institutional affiliation (if any).
+1. An anonymized version of your paper (up to 3,000 words) or creative/artistic work (suitable for a 20-minute presentation), along with an abstract or proposal as appropriate (up to 150 words);
+2. A separate cover letter stating the title of your presentation, your name, email address, and institutional affiliation (if any); and
+3. Four to six keywords for your submission.
 
 You will receive an email acknowledgment within a couple of days and will be notified of our decision by [due date for decisions]. Every submission will be reviewed anonymously by two of our philosophy graduate students and/or faculty members at the University of Arizona; we are hoping to pass on brief feedback from the reviewers.
 
