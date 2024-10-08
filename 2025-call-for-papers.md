@@ -15,7 +15,7 @@ The conference is free to register and open to all. We will receive submissions 
 
 We encourage interventions that go beyond merely interpreting, explicating, critiquing, applying, or amending existing views, and favor submissions that are not afraid to take risks, grapple with the big normative, analytical, practical, and methodological questions, and provoke new ways of seeing, thinking, and theorizing.
 
-<p>If you would like to attend the conference but do not have work ready to submit at this time, please reach out to us at the email address below and indicate a willingness to be considered as a commentator or chair (please remember to give us a sense of your background and interests!).</p>
+If you would like to attend the conference but do not have work ready to submit at this time, please reach out to us at the email address below and indicate a willingness to be considered as a commentator or chair (please remember to give us a sense of your background and interests!).
 
 <script language="JavaScript" type="text/javascript">
   var fem = "femphilaz";
@@ -26,7 +26,7 @@ We encourage interventions that go beyond merely interpreting, explicating, crit
   var s = " ";
   document.write("<p><strong>How to send us your work</strong>: Please email the following to" + s + "<a href='" + "mail" + "to:" + fem + arr + phil + dot + arizona + "'>" + fem + arr + phil + dot + arizona + "</a> by [submission due date].</p>");
 </script>
-<noscript><p><strong>How to send us your work</strong>: Please email the following to [please enable JavaScript to view the email address] by [submission due date].</noscript>
+<noscript><p><strong>How to send us your work</strong>: Please email the following to [please enable JavaScript to view the email address] by [submission due date].</p></noscript>
 
 1. An anonymized version of your paper (up to 3,000 words) or creative/artistic work (suitable for a 20-minute presentation); and
 2. A separate cover letter stating (a) the title of your presentation, (b) your name, (c) your email, (d) your institutional affiliation (if any), and (e) four to six keywords.
@@ -47,3 +47,4 @@ For accessibility reasons, we ask all in-person attendees to wear N94/N95 or sim
   var e = "@";
   document.write("<p><strong>Questions, including those related to accessibility</strong>, may be directed to Ding (they/she) at" + d + "<a href='" + "mail" + "to:" + c + e + a + "'>" + c + e + a + "</a> (feel free to ask for Ding’s Signal handle if your question concerns personal information). As part of our triple-anonymous review process, all submissions are anonymous to Ding; we ask that this be respected.</p>");
 </script>
+<noscript><p><strong>Questions, including those related to accessibility</strong>, may be directed to Ding (they/she) at [please enable JavaScript to view the email address] (feel free to ask for Ding’s Signal handle if your question concerns personal information). As part of our triple-anonymous review process, all submissions are anonymous to Ding; we ask that this be respected.</p></noscript>
