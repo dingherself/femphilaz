@@ -19,9 +19,9 @@ Please include the following in your review:
    - **5** for papers that in your judgment should definitely be invited for presentation.
    - **4** for papers that you think should be invited, but about which you have some reservation. Please specify your reservation.
    - **3** for papers that you consider to have important flaws. Please specify the flaws.
-   - **2** for poor papers that you think should not be invited for presentation.
+   - **2** for papers that you think should not be invited for presentation.
    - **1** for papers that do not meet the minimum standards for this kind of conference.
-2. Please provide **a brief comment** on the paper. A few sentences/short paragraph is fine, though we, of course, welcome more detailed feedback. No summary is necessary. **If there is any part of your comment that you do not wish to be passed on to the authors, please distinguish that in some clear way as “confidential to co-organizers.”**
+2. Please provide **a brief comment** on the paper. A few sentences/short paragraph is fine, though we, of course, welcome more detailed feedback. No summary is necessary. *If there is any part of your comment that you do not wish to be passed on to the authors, please distinguish that in some clear way as “confidential to co-organizers.”*
 3. Would you want to serve as the **commentator** for this paper if it were accepted?
 
 <script language="JavaScript" type="text/javascript">
