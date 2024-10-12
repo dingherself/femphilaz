@@ -7,11 +7,12 @@ title: 2025 Instructions to Reviewers (Draft)
 
 We want to express our thanks again for offering your time to review submissions for the conference. FemPhilAZ 2025 would not be possible without you; we really appreciate your support.
 
-- **[New]** We have faced declining submissions over the past few years. This time, we are encouraging not only submissions from graduate students in analytic philosophy departments but also feminist philosophical work that may be more interdisciplinary, may be more historical, or may be done in a non-traditional/more creative format. We would also like to encourage more ambitious as well as more outside-the-box submissions that provoke new ways of seeing, thinking, and theorizing rather than add epicycles to epicycles, even if this may mean the argument is not as watertight or that the details are not as worked out. We therefore request that reviewers take into account the *potential* of the paper’s contribution, including whether/how much it would benefit from presentation at FemPhilAZ, when this becomes a relevant factor. [For reference, our CFP is here.](https://www.femphilaz.com/2025-call-for-papers/)
+- **[New]** We have faced declining submissions over the past few years. This time, we are encouraging not only submissions from graduate students in philosophy departments but also feminist philosophical work that may be more interdisciplinary, may be more historical, or may be done in a non-traditional/more creative format. We would also like to encourage more ambitious as well as more outside-the-box submissions that provoke new ways of seeing/thinking/theorizing rather than add epicycles to epicycles, even if this may mean that the argument is not focused on being watertight or that the details are not fully worked out. We therefore request that reviewers take into account the *potential* of the paper’s contribution, including whether/how much it would benefit from presentation at FemPhilAZ, when this becomes a relevant factor. [For reference, our CFP is here.](https://www.femphilaz.com/2025-call-for-papers/)
 - **[New]** We want to experiment with passing on brief reviewer comments to authors, with the hope of pushing other conferences to do the same. Of course, we will *not* share the numerical scores you give, and please feel free to mark anything as “confidential to co-organizers.”
-- The authors have a maximum of 3,000 words to work with. Please keep this in mind when reviewing as well. Many of these papers are quite brief, but as best you can, please try to evaluate them given how well they were executed given our admittedly stringent length specifications.
-- We tried our best to match papers with reviewers’ interests as much as possible, but we have a limited number of reviewers. Even if you don’t feel you are an expert in the fields a paper engages with, we ask that you give your best shot. But if you feel like you *really* can’t review the paper, please let us know as soon as possible and we will redistribute the paper.
-- We will follow past practices of giving reviewers the first bid on being commentators.
+- **[New]** Our review process this year is triple-anonymous. Only Jacob should know the identities of the authors. *Please do not google the title, etc.* And please let Jacob (only Jacob) know if you may have read or heard a paper before. 
+- The authors have a maximum of 3,000 words to work with. Please keep this in mind when reviewing as well. As best you can, try to evaluate the submission based on how well it is executed *given the world limit*.
+- We tried our best to match papers with reviewers’ interests as much as possible, but we have a limited number of reviewers. Even if you don’t feel you are an expert on the issues a paper engages with, we ask that you give your best shot. But if you feel like you *really* can’t review the paper, please let Jacob know as soon as possible.
+- We will follow our past practice of giving reviewers the first bid on being commentators.
 
 Please include the following in your review:
 
@@ -31,8 +32,8 @@ Please include the following in your review:
   var dot = ".";
   var arizona = "com";
   var s = " ";
-  document.write("<p>Let me know if you have any questions. Please send feedback to" + s + "<a href='" + "mail" + "to:" + fem + arr + phil + dot + arizona + "'>" + fem + arr + phil + dot + arizona + "</a> by [review due date].</p>");
+  document.write("<p>Please let Jacob know if you have any questions. Reviews should be sent to" + s + "<a href='" + "mail" + "to:" + fem + arr + phil + dot + arizona + "'>" + fem + arr + phil + dot + arizona + "</a> by [review due date].</p>");
 </script>
-<noscript><p>Let me know if you have any questions. Please send feedback to [please enable JavaScript to view the email address] by [review due date].</p></noscript>
+<noscript><p>Please let Jacob know if you have any questions. Reviews should be sent to [please enable JavaScript to view the email address] by [review due date].</p></noscript>
 
 Again, thank you so much for helping us out!
