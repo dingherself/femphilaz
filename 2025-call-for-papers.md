@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2025 Call for Papers (Draft)
+title: 2025 Call for Papers
 group: navigation
 order: 2
 ---
