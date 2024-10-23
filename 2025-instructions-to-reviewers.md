@@ -1,9 +1,9 @@
 ---
 layout: default
-title: 2025 Instructions to Reviewers (Draft)
+title: 2025 Instructions to Reviewers
 ---
 
-# 2025 Instructions to Reviewers (Draft)
+# 2025 Instructions to Reviewers
 
 We want to express our thanks again for offering your time to review submissions for the conference. FemPhilAZ 2025 would not be possible without you; we really appreciate your support.
 
