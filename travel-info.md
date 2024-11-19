@@ -56,7 +56,7 @@ The University of Arizona occupies the land and territories of the Tohono O’od
 The area is served by:
 
 - The **Tucson International Airport (TUS)** is a 20-minute drive (8.5 miles) to campus. You can use rideshare, and we’d be happy to find local grad students to pick you up as well. (Note that [Southwest](https://www.southwest.com/) flights may not show up on third-party sites like Google Flights, [for interesting reasons](https://www.youtube.com/watch?v=1-m_Jjse-cs).)
-- The **Phoenix Sky Harbor (PHX)** is a 1.5- to 2-hour drive (115 miles) to campus, contingent on highway traffic. The [Groom shuttle](https://groometransportation.com/tucson/#fares) (around 50 USD each way) stops on campus, but please check with Ding to see if they could pick you up from PHX directly.
+- The **Phoenix Sky Harbor (PHX)** is a 1.5- to 2-hour drive (115 miles) to campus, contingent on highway traffic. [FlixBus](https://www.flixbus.com/) (around 25–30 USD each way) and [Groome](https://groometransportation.com/tucson/) (around 50 USD each way) both stop on campus, but please check with Ding to see if they could pick you up from PHX directly.
 - The **Amtrak** [Sunset Limited](https://www.amtrak.com/sunset-limited-train) may be an interesting option if you are coming from/to LA or El Paso.
 
 A free-to-ride **streetcar** [Sun Link](https://www.suntran.com/routes-services/sunlink/) runs between campus and downtown.
