@@ -92,7 +92,7 @@ A free-to-ride **streetcar** [Sun Link](https://www.suntran.com/routes-services/
 - [The Rialto Theatre & 191 Toole](https://www.rialtotheatre.com/calendar/)
 - [Club Congress](https://hotelcongress.com/calendar/)
 
-*Things to do if you have an extra day* (check with Ding to see if there might be a group of people interested in going in some of the following):
+*Things to do if you have an extra day* (check with Ding to see if there might be a group of people interested in going to some of the following):
 
 - [O.K. Corral gunfight reenactment](https://www.ok-corral.com/pages/visit.shtml)
 - [Biosphere 2](https://biosphere2.org/), currently operated by the University of Arizona
