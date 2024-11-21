@@ -83,7 +83,7 @@ A free-to-ride **streetcar** [Sun Link](https://www.suntran.com/routes-services/
 *Drinks*:
 
 - **Near campus**: [Screwbean](https://g.co/kgs/3f5457R) (coffee + beer) and [Time Market](https://g.co/kgs/hcA7fpM) (beer + wine + pizza + groceries)
-- **Downtown**: [Crooked Tooth](https://g.co/kgs/Txu2eTR) (brewery with lovely outdoor area), [the Royal Room](https://www.instagram.com/theroyalroomtucson/?hl=en) (unofficially queer wine bar), and [Surly Wench](https://g.co/kgs/PQGvZi8) (ex-lesbian bar but now pretty straight)
+- **Downtown**: [Crooked Tooth](https://g.co/kgs/Txu2eTR) (brewery with lovely outdoor area), [The Royal Room](https://www.instagram.com/theroyalroomtucson/?hl=en) (unofficially-queer wine bar), and [Surly Wench](https://g.co/kgs/PQGvZi8) (ex-lesbian bar but now pretty straight)
 - **More out of the way**: [SideCar](https://maps.app.goo.gl/Rjk7A31EpxqjV5g2A) (cute little bar) and [MotoSonora](https://maps.app.goo.gl/5sWN1sL3uvbceL3L6) (brewery with a vintage car theme and a large outdoor area)
 
 *Places to dance* (all downtown; check if there is an event):
