@@ -17,10 +17,10 @@ We want to express our thanks again for offering your time to review submissions
 Please include the following in your report:
 
 1. **A numerical score** using the scale below, which will never be shared with the authors. We would like to identify both submissions that would benefit us and those that would benefit from our feedback. *Please feel free to use half-points where helpful.*
-   - **6** for submissions that in your judgment we not only should but *must* invite for presentation. Please specify why.
+   - **6** for submissions that in your judgment we should *definitely* invite.
    - **5** for submissions that in your judgment we should invite.
-   - **4** for submissions that you have reservations about, but which in your judgment we should nonetheless invite. Please specify your reservations.
-   - **3** for submissions that you have reservations about, and which in your judgment we should not invite. Please specify your reservations.
+   - **4** for submissions that you have reservations about, but which in your judgment we should nonetheless invite.
+   - **3** for submissions that you have reservations about, and which in your judgment we should not invite.
    - **2** for submissions that in your judgment we should definitely not invite.
    - **1** for submissions that in your judgment do not meet the minimum standards for this kind of conference.
 2. Please provide **a brief comment** on the submission. No summary is necessary. A few sentences/short paragraph is fine, though we, of course, welcome more detailed feedback. *If there is any part of your comment that you do not wish to be passed on to the authors, please distinguish that in some clear way as “confidential to co-organizers.”*
