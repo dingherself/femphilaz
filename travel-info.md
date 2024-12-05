@@ -63,8 +63,8 @@ A free-to-ride **streetcar** [Sun Link](https://www.suntran.com/routes-services/
 
 *Lodging*:
 
-- **Keynote speakers**: we’ll book the [Marriott](https://maps.app.goo.gl/Cn9yTCY2nhhZSKYR9) for you, which is a 8-minute walk from the department/conference venue.
-- **Grad students**: we are happy to arrange homestays with our local grad students so you wouldn’t need to pay for a hotel, but you are of course welcome to find your own lodging option (in addition to the Marriott, try the [Aloft](https://www.marriott.com/en-us/hotels/tusal-aloft-tucson-university/overview/), the [Graduate](https://www.hilton.com/en/hotels/tusgtgu-graduate-tucson/), or somewhere along 4th Ave or Congress St—but stay east of the I-20 so it’s not too far).
+- **Keynote speakers**: we have booked your rooms at the [Marriott](https://maps.app.goo.gl/Cn9yTCY2nhhZSKYR9) next to campus, which is a 8-minute walk from the department/conference venue.
+- **Grad students**: we are happy to arrange homestays with our local grad students so you wouldn’t need to pay for a hotel, but you are of course welcome to find your own lodging option (in addition to the Marriott, try the [Aloft](https://www.marriott.com/en-us/hotels/tusal-aloft-tucson-university/overview/), the [Graduate](https://www.hilton.com/en/hotels/tusgtgu-graduate-tucson/), or somewhere along 4th Ave or Congress St—but stay east of the I-20 so it’s not too far); please do note that the conference coincides with the annual [Gem Shows](https://www.visittucson.org/tucson-gem-mineral-fossil-showcase/) and so it may be more difficult than usual to find hotel rooms.
 
 *Access to caffeine near campus*:
 
@@ -72,13 +72,38 @@ A free-to-ride **streetcar** [Sun Link](https://www.suntran.com/routes-services/
 - [Screwbean](https://g.co/kgs/3f5457R) (better coffee)
 - [Scented Leaf](https://g.co/kgs/guCEgqH) (iff you like heavily flavored tea)
 
-*Vegan/vegetarian dining options near campus*:
+*Vegan/vegetarian dining options*:
 
-- [Substance Diner](https://www.substancediner.com/) (adorable food truck behind Screwbean; all vegan—try their Spicy Fricken Sandwich)
-- [Kababeque Indian Grill](https://g.co/kgs/7vK1jbX) (many vegan/vegetarian options—try their Aloo Matar, Baigan Bharta, and Chana Masala)
-- [Jimmy’s Pita & Poke](https://jimmyspitaandpoke.com/menu/) (build your own rice bowl with grilled tofu and stuff)
-- [Bacio Italiano](https://g.co/kgs/PRHSSBz) (pizzas can be made vegan; sit-down restaurant)
-- **If you are willing to go further or downtown**: [Tumerico](https://maps.app.goo.gl/P9vygXCBUtussNSm7) (Mexican; all vegan), [La Indita](https://g.co/kgs/kD7TLk8) (Mexican; some options), [Cafe Desta](https://g.co/kgs/BRHCsmo) (Ethiopian; many options), [Beaut Burger](https://g.co/kgs/wNNjZtT) (all vegan), [Fatman Kitchen](https://g.co/kgs/MHb6nLo) (Chinese; many options), [LaCo](https://www.instagram.com/laco.tucson/) (Mexican; some options), [the Coronet](https://coronettucson.com/restaurant/) (some options; more expensive), [Beyond Bread](https://maps.app.goo.gl/e7veLrX44mXGg43KA) (some options), and [Falora](https://maps.app.goo.gl/gDvKwVGvmgCxdFvy6) (sit-down pizza restaurant; some options)
+- **Near campus**:
+  - [Kababeque Indian Grill](https://g.co/kgs/7vK1jbX) (many vegan/vegetarian options—try their Aloo Matar, Baigan Bharta, and Chana Masala)
+  - [Jimmy’s Pita & Poke](https://jimmyspitaandpoke.com/menu/) (build your own rice bowl with grilled tofu and stuff)
+  - [Bacio Italiano](https://g.co/kgs/PRHSSBz) (pizzas can be made vegan; sit-down restaurant)
+
+- **Downtown**:
+  - [Cafe Maggie](https://maps.app.goo.gl/DB4yX4Eb38bnJpeb7) (all day breakfast and more; many options)
+  - [Time Market](https://maps.app.goo.gl/RiyhkqEWpUfQLfsw9) (pizzas can be made vegan)
+  - [BOCA](https://maps.app.goo.gl/i57KPGaA8UnHhsXy7) (Mexican; some options)
+  - [JoJo’s](https://maps.app.goo.gl/Tan9xqJ14kDK98af9) (Mexican; some options)
+  - [OBON Sushi Bar Ramen](https://g.co/kgs/rsE522H) (Japanese; some options)
+  - [Urban Fresh](https://maps.app.goo.gl/toxBfswDc29N9Jo18) (breakfast & lunch only; all vegan)
+  - [4th Ave Deli](https://g.co/kgs/oMDf8qe) (sandwiches and hotdogs; many options)
+  - [Nhu Lan](https://g.co/kgs/4SHmq8S) (Vietnamese; many options)
+  - [Street Taco and Beer Co.](https://maps.app.goo.gl/VJEQCAXxktNtURU56) (Mexican; some options)
+  - [JA Ramen](https://maps.app.goo.gl/86wgLEJWcrhiyXT57) (Japanese; some options)
+  - [Miss Saigon](https://maps.app.goo.gl/BJazAn9mU1yf81Go6) (Vietnamese; some options)
+  - [HUB Restaurant & Ice Creamery](https://maps.app.goo.gl/MzUtdpp1jvSLgnHW8) (American; some options)
+  - [Thunder Bacon Burger](https://maps.app.goo.gl/1yqa4gsG68AM8feq6) (American; some options)
+
+- **If you are willing to go further**:
+  - [Tumerico](https://maps.app.goo.gl/P9vygXCBUtussNSm7) (Mexican; all vegan)
+  - [La Indita](https://g.co/kgs/kD7TLk8) (Mexican; some options)
+  - [Cafe Desta](https://g.co/kgs/BRHCsmo) (Ethiopian; many options)
+  - [Beaut Burger](https://g.co/kgs/wNNjZtT) (American; all vegan)
+  - [Fatman Kitchen](https://g.co/kgs/MHb6nLo) (Chinese; many options)
+  - [The Coronet](https://coronettucson.com/restaurant/) (more expensive; some options)
+  - [Beyond Bread](https://maps.app.goo.gl/e7veLrX44mXGg43KA) (sandwiches; some options)
+  - [Falora](https://maps.app.goo.gl/gDvKwVGvmgCxdFvy6) (sit-down pizza restaurant; some options)
+
 
 *Drinks*:
 
