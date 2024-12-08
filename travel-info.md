@@ -68,8 +68,8 @@ A free-to-ride **streetcar** [Sun Link](https://www.suntran.com/routes-services/
 
 *Access to caffeine near campus*:
 
-- [Caffe Luce](https://g.co/kgs/g3JYEFu) (closer to campus/Marriott)
-- [Screwbean](https://g.co/kgs/3f5457R) (better coffee)
+- [Caffe Luce](https://g.co/kgs/g3JYEFu) (closer to campus/Marriott; banana bread is vegan)
+- [Screwbean](https://g.co/kgs/3f5457R) (better coffee; lovely vegan pastries that sell out fast)
 - [Scented Leaf](https://g.co/kgs/guCEgqH) (iff you like heavily flavored tea)
 
 *Vegan/vegetarian dining options*:
