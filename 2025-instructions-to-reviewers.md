@@ -33,9 +33,9 @@ Please include the following in your report:
   var dot = ".";
   var arizona = "com";
   var s = " ";
-  document.write("<p>Please let Jacob know if you have any questions. Reports should be sent back to" + s + "<a href='" + "mail" + "to:" + fem + arr + phil + dot + arizona + "'>" + fem + arr + phil + dot + arizona + "</a> by [review due date].</p>");
+  document.write("<p>Please let Jacob know if you have any questions. Reports should be sent back to" + s + "<a href='" + "mail" + "to:" + fem + arr + phil + dot + arizona + "'>" + fem + arr + phil + dot + arizona + "</a> by midnight on December 27, 2024.</p>");
 </script>
-<noscript><p>Please let Jacob know if you have any questions. Reports should be sent back to [please enable JavaScript to view the email address] by [review due date].</p></noscript>
+<noscript><p>Please let Jacob know if you have any questions. Reports should be sent back to [please enable JavaScript to view the email address] by midnight on December 27, 2024.</p></noscript>
 
 Again, thank you so much for helping us out!
 
