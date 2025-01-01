@@ -119,7 +119,6 @@ A free-to-ride **streetcar** [Sun Link](https://www.suntran.com/routes-services/
 
 *Things to do if you have an extra day* (check with Ding to see if there might be a group of people interested in going to some of the following):
 
-- [O.K. Corral gunfight reenactment](https://www.ok-corral.com/pages/visit.shtml)
 - [Biosphere 2](https://biosphere2.org/), currently operated by the University of Arizona
 - [Seven Falls/Bear Canyon Trail](https://www.arizonahikersguide.com/all-hikes/hike-seven-falls-tucson)
 - [Tanque Verde Falls Trail](https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fseprd1173388.pdf)
