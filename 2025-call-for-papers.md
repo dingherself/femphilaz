@@ -1,8 +1,6 @@
 ---
 layout: default
 title: 2025 Call for Papers
-group: navigation
-order: 2
 ---
 
 # 2025 Call for Papers
