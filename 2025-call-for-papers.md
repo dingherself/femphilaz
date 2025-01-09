@@ -7,7 +7,7 @@ title: 2025 Call for Papers
 
 **N.B. While we have now moved on to reading submissions, please feel free to continue to reach out to us if you are interested in being considered as a commentator or chair (please see instructions below).**
 
-We invite presentations for the 6th Annual Arizona Feminist Philosophy Graduate Conference (FemPhilAZ 2025), to be held on February 7–8, 2025 at the University of Arizona with a hybrid in-person/Zoom option for all sessions. Our keynote speakers will be Professor A. W. Eaton (feminist philosophy of art, University of Illinois Chicago) and Professor Rowan Bell (trans feminist philosophy, University of Guelph).
+We invite presentations for the 6th Annual Arizona Feminist Philosophy Graduate Conference (FemPhilAZ 2025), to be held on February 7–8, 2025 at the University of Arizona with a hybrid in-person/Zoom option for all sessions. Our keynote speakers will be Professor A.W. Eaton (feminist philosophy of art, University of Illinois Chicago) and Professor Rowan Bell (trans feminist philosophy, University of Guelph).
 
 The conference is free to register and open to all. We will receive submissions until December 9, 2024. Past programs can be found at <https://femphilaz.com>, with the caveat that we are always in search of approaches, themes, traditions, and voices not well represented in previous iterations of the conference.
 
