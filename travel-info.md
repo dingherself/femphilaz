@@ -122,6 +122,7 @@ A free-to-ride **streetcar** [Sun Link](https://www.suntran.com/routes-services/
 - [Biosphere 2](https://biosphere2.org/), currently operated by the University of Arizona
 - [Seven Falls/Bear Canyon Trail](https://www.arizonahikersguide.com/all-hikes/hike-seven-falls-tucson)
 - [Tanque Verde Falls Trail](https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fseprd1173388.pdf)
+- [The Mini Time Machine Museum of Miniatures](https://theminitimemachine.org/)
 - [Pima Air & Space Museum](https://pimaair.org/plan-your-visit/general-admission/)
 - **On campus**: [University of Arizona Museum of Art](https://artmuseum.arizona.edu/), [Arizona State Museum](https://statemuseum.arizona.edu/), [University of Arizona Center for Creative Photography](https://ccp.arizona.edu/), and the [Poetry Center](https://poetry.arizona.edu/)
 - **Downtown**: [Tucson Museum of Contemporary Art](https://moca-tucson.org/), [Tucson Museum of Art](https://www.tucsonmuseumofart.org/), and [University of Arizona Gem & Mineral Museum](https://uamineralmuseum.com/)
